@@ -1,255 +1,617 @@
 {
   "users": [
     {
-      "name": "Hrithic Raj",
-      "email": "hrj@gmail.com",
-      "username": "hrj",
-      "password": "hrj",
-      "id": "fdb2",
+      "id": "e807",
+      "username": "jaggu",
+      "email": "jaggu@gmail.com",
+      "password": "jaggu",
       "role": "admin",
-      "block": false
+      "block": false,
+      "cart": []
     },
     {
-      "name": "Abhay pc",
-      "email": "abhay@gmail.com",
-      "username": "abhay",
-      "password": "abhay",
-      "id": "99e0",
+      "id": "f7e7",
+      "username": "harsh",
+      "email": "hasrsh@goosemail.com",
+      "password": "qwerty",
+      "role": "user",
+      "block": false,
+      "cart": []
+    },
+    {
+      "id": "6879",
+      "username": "harsha",
+      "email": "harsh@goosemail.com",
+      "password": "12345",
+      "role": "user",
+      "block": false,
+      "cart": []
+    },
+    {
+      "id": "1255",
+      "username": "jagan",
+      "email": "jagan@gmail.com",
+      "password": "jagan",
       "role": "user",
       "block": false,
       "cart": [
         {
-          "id": "00001",
-          "name": "Apple iPhone 15 Pro max",
-          "description": "The latest iPhone with A17 Bionic chip, 6.1-inch Super Retina XDR display, and dynamic island.",
-          "price": 119900,
-          "quantity": 1,
-          "image": "https://m.media-amazon.com/images/I/81c50PU+lpL._AC_UY327_FMwebp_QL65_.jpg"
+          "id": "7",
+          "name": "Asus ROG Phone 7",
+          "brand": "Asus",
+          "price": 94999,
+          "image": "https://dlcdnwebimgs.asus.com/gain/C9615203-EAB2-40D4-AB1F-2BA1521B4A98",
+          "rating": 4.6,
+          "description": "6.78-inch AMOLED display, Snapdragon 8 Gen 2, 165Hz refresh rate, and AirTrigger gaming controls.",
+          "specification": {
+            "display": "6.78-inch AMOLED, 165Hz",
+            "processor": "Snapdragon 8 Gen 2",
+            "ram": "16GB",
+            "camera": "50MP triple camera",
+            "battery": "6000mAh",
+            "storage": "512GB",
+            "os": "Android 13"
+          },
+          "quantity": 1
         },
         {
-          "id": "00002",
+          "id": "5",
+          "name": "Xiaomi 13 Pro",
+          "brand": "Xiaomi",
+          "price": 74999,
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/x/j/m/-original-imagwubk2ky9v2gz.jpeg?q=70&crop=false",
+          "rating": 4.4,
+          "description": "6.73-inch AMOLED display, Snapdragon 8 Gen 2, 50MP Leica-powered cameras, and 120W fast charging.",
+          "specification": {
+            "display": "6.73-inch AMOLED",
+            "processor": "Snapdragon 8 Gen 2",
+            "ram": "12GB",
+            "camera": "50MP Leica triple camera",
+            "battery": "4820mAh",
+            "storage": "256GB/512GB",
+            "os": "Android 13"
+          },
+          "quantity": 1
+        },
+        {
+          "id": "2",
           "name": "Samsung Galaxy S23 Ultra",
-          "description": "Flagship device with Snapdragon 8 Gen 2, 200 MP camera, and 5000mAh battery.",
-          "price": 76999,
-          "quantity": 2,
-          "image": "https://m.media-amazon.com/images/I/71goZuIha-L._AC_UY327_FMwebp_QL65_.jpg"
+          "brand": "Samsung",
+          "price": 124999,
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/u/a/l/-original-imagzm8qrfdmhy8z.jpeg?q=70&crop=false",
+          "rating": 4.7,
+          "description": "6.8-inch Dynamic AMOLED 2X display, Snapdragon 8 Gen 2, 200MP camera, and S Pen compatibility.",
+          "specification": {
+            "display": "6.8-inch Dynamic AMOLED 2X",
+            "processor": "Snapdragon 8 Gen 2",
+            "ram": "12GB",
+            "camera": "200MP quad camera",
+            "battery": "5000mAh",
+            "storage": "256GB/512GB/1TB",
+            "os": "Android 13"
+          },
+          "quantity": 4
+        },
+        {
+          "id": "9",
+          "name": "Nothing Phone (2)",
+          "brand": "Nothing",
+          "price": "44999",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/u/m/b/-original-imagrdefbw6bhbjr.jpeg?q=70",
+          "rating": 4.2,
+          "description": "6.7-inch OLED display, Snapdragon 8+ Gen 1, unique Glyph Interface, and 50MP dual cameras.",
+          "specification": {
+            "display": "6.7-inch OLED",
+            "processor": "Snapdragon 8+ Gen 1",
+            "ram": "8GB",
+            "camera": "50MP (Dual Camera)",
+            "battery": "4700mAh with 45W fast charging",
+            "storage": "128GB UFS 3.1",
+            "os": "Android 13"
+          },
+          "quantity": 1
         }
       ]
     },
     {
-      "name": "muhsin",
-      "email": "muhsin@gmail.com",
-      "username": "muhsin",
-      "password": "muhsin",
-      "id": "fr34",
+      "id": "517f",
+      "username": "jaggu1",
+      "email": "jaggu1@gmail.com",
+      "password": "jaggu1",
+      "role": "user",
+      "block": false,
+      "cart": []
+    },
+    {
+      "id": "f3a0",
+      "username": "harshaa",
+      "email": "harsh@g.co",
+      "password": "harsh",
+      "role": "user",
+      "block": false,
+      "cart": []
+    },
+    {
+      "id": "edad",
+      "username": "hsrsha",
+      "email": "hsraha@g.co",
+      "password": "hsrasha",
+      "role": "user",
+      "block": false,
+      "cart": []
+    },
+    {
+      "id": "9e3e",
+      "username": "sasi",
+      "email": "sasi@gmail.co",
+      "password": "sasi",
+      "role": "user",
+      "block": false,
+      "cart": []
+    },
+    {
+      "id": "a51c",
+      "username": "jagan0",
+      "email": "jagan0@gmail.com",
+      "password": "jagan0",
+      "role": "user",
+      "block": false,
+      "cart": []
+    },
+    {
+      "id": "a604",
+      "username": "jagan00",
+      "email": "jagan00@gmail.com",
+      "password": "jagan00",
       "role": "user",
       "block": false,
       "cart": [
         {
-          "id": "00004",
-          "name": "Google Pixel 8 5G",
-          "description": "Powered by Google Tensor G3, with AI-powered photography and clean Android experience.",
-          "price": 56399,
-          "image": "https://m.media-amazon.com/images/I/51x3Qb8-Y+L._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 2
-        },
-        {
-          "id": "00002",
+          "id": "2",
           "name": "Samsung Galaxy S23 Ultra",
-          "description": "Flagship device with Snapdragon 8 Gen 2, 200 MP camera, and 5000mAh battery.",
-          "price": 76999,
-          "image": "https://m.media-amazon.com/images/I/71goZuIha-L._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 2
+          "brand": "Samsung",
+          "price": 124999,
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/u/a/l/-original-imagzm8qrfdmhy8z.jpeg?q=70&crop=false",
+          "rating": 4.7,
+          "description": "6.8-inch Dynamic AMOLED 2X display, Snapdragon 8 Gen 2, 200MP camera, and S Pen compatibility.",
+          "specification": {
+            "display": "6.8-inch Dynamic AMOLED 2X",
+            "processor": "Snapdragon 8 Gen 2",
+            "ram": "12GB",
+            "camera": "200MP quad camera",
+            "battery": "5000mAh",
+            "storage": "256GB/512GB/1TB",
+            "os": "Android 13"
+          },
+          "quantity": 9
         },
         {
-          "id": "00009",
-          "name": "Motorola Edge 50 Pro",
-          "description": "Slim and powerful device with Snapdragon 8 Gen 2, edge-to-edge pOLED display, and IP68 rating.",
-          "price": 32799,
-          "image": "https://m.media-amazon.com/images/I/715aoVxQNTL._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 1
+          "id": "3",
+          "name": "OnePlus 11 5G",
+          "brand": "OnePlus",
+          "price": 56999,
+          "image": "https://m.media-amazon.com/images/I/61amb0CfMGL.jpg",
+          "rating": 4.5,
+          "description": "6.7-inch Fluid AMOLED display, Snapdragon 8 Gen 2, 50MP triple camera setup, and 100W fast charging.",
+          "specification": {
+            "display": "6.7-inch Fluid AMOLED",
+            "processor": "Snapdragon 8 Gen 2",
+            "ram": "8GB/16GB",
+            "camera": "50MP triple camera",
+            "battery": "5000mAh",
+            "storage": "128GB/256GB",
+            "os": "Android 13"
+          },
+          "quantity": 7
         }
       ]
     },
     {
-      "id": "a5d6",
-      "name": "rex",
-      "username": "rex",
-      "email": "rex@gmail.com",
-      "password": "rex",
+      "id": "4ac2",
+      "username": "amber",
+      "email": "amber@gmail.com",
+      "password": "amber",
       "role": "user",
       "block": false,
-      "cart": [
-        {
-          "id": "00002",
-          "name": "Samsung Galaxy S23 Ultra",
-          "description": "Flagship device with Snapdragon 8 Gen 2, 200 MP camera, and 5000mAh battery.",
-          "price": 76999,
-          "image": "https://m.media-amazon.com/images/I/71goZuIha-L._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 2
-        },
-        {
-          "id": "00003",
-          "name": "OnePlus 12",
-          "description": "Fast and smooth performance with Snapdragon 8 Gen 3, 120Hz AMOLED display, and Hasselblad cameras.",
-          "price": 63999,
-          "image": "https://m.media-amazon.com/images/I/61BAuSC0UnL._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 1
-        },
-        {
-          "id": "00008",
-          "name": "Motorola razr 50",
-          "description": "3.6 External AMOLED Display, 6.9 AMOLED 120Hz Display, 32MP Selfie Camera.",
-          "price": 54999,
-          "image": "https://m.media-amazon.com/images/I/71AGGURIh8L._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 1
-        },
-        {
-          "id": "00007",
-          "name": "Samsung Galaxy S24 FE",
-          "description": "Premium device with 4K OLED display, Exynos 3110, and professional-grade cameras.",
-          "price": 54688,
-          "image": "https://m.media-amazon.com/images/I/717gvwQRw7L._AC_UY327_FMwebp_QL65_.jpg  ",
-          "quantity": 1
-        }
-      ]
+      "cart": []
     },
     {
-      "id": "318f",
-      "name": "koru",
-      "username": "koru",
-      "email": "koru",
-      "password": "koru",
+      "id": "fd37",
+      "username": "mini",
+      "email": "mini@gmail.com",
+      "password": "mini",
       "role": "user",
       "block": false,
-      "cart": [
-        {
-          "id": "00011",
-          "name": "Nothing Phone 2",
-          "description": "Minimalistic design with Snapdragon 8+ Gen 1, Glyph Interface, and OLED display.",
-          "price": 45650,
-          "image": "https://m.media-amazon.com/images/I/819VAShnDpL._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 1
-        }
-      ]
+      "cart": []
+    },
+    {
+      "id": "8a32",
+      "username": "kb",
+      "email": "kb@gmail.com",
+      "password": "kb",
+      "role": "user",
+      "block": false,
+      "cart": []
     }
   ],
-  "mobiles": [
+  "products": [
     {
-      "id": "00001",
-      "name": "Apple iPhone 15 Pro max",
-      "description": "The latest iPhone with A17 Bionic chip, 6.1-inch Super Retina XDR display, and dynamic island.",
-      "price": 119900,
-      "image": "https://m.media-amazon.com/images/I/81c50PU+lpL._AC_UY327_FMwebp_QL65_.jpg"
+      "id": "1",
+      "name": "iPhone 14 Pro Max",
+      "brand": "Apple",
+      "price": 129900,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/x/j/-original-imaghxejqvpwfqh2.jpeg?q=70&crop=false",
+      "rating": 4.8,
+      "description": "6.7-inch Super Retina XDR display, A16 Bionic chip, 48MP camera system, and all-day battery life.",
+      "specification": {
+        "display": "6.7-inch Super Retina XDR",
+        "processor": "A16 Bionic chip",
+        "ram": "6GB",
+        "camera": "48MP triple camera",
+        "battery": "4323mAh",
+        "storage": "128GB/256GB/512GB/1TB",
+        "os": "iOS 16"
+      }
     },
     {
-      "id": "00002",
+      "id": "2",
       "name": "Samsung Galaxy S23 Ultra",
-      "description": "Flagship device with Snapdragon 8 Gen 2, 200 MP camera, and 5000mAh battery.",
-      "price": 76999,
-      "image": "https://m.media-amazon.com/images/I/71goZuIha-L._AC_UY327_FMwebp_QL65_.jpg"
+      "brand": "Samsung",
+      "price": 124999,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/u/a/l/-original-imagzm8qrfdmhy8z.jpeg?q=70&crop=false",
+      "rating": 4.7,
+      "description": "6.8-inch Dynamic AMOLED 2X display, Snapdragon 8 Gen 2, 200MP camera, and S Pen compatibility.",
+      "specification": {
+        "display": "6.8-inch Dynamic AMOLED 2X",
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "12GB",
+        "camera": "200MP quad camera",
+        "battery": "5000mAh",
+        "storage": "256GB/512GB/1TB",
+        "os": "Android 13"
+      }
     },
     {
-      "id": "00003",
-      "name": "OnePlus 12",
-      "description": "Fast and smooth performance with Snapdragon 8 Gen 3, 120Hz AMOLED display, and Hasselblad cameras.",
-      "price": 63999,
-      "image": "https://m.media-amazon.com/images/I/61BAuSC0UnL._AC_UY327_FMwebp_QL65_.jpg"
+      "id": "3",
+      "name": "OnePlus 11 5G",
+      "brand": "OnePlus",
+      "price": 56999,
+      "image": "https://m.media-amazon.com/images/I/61amb0CfMGL.jpg",
+      "rating": 4.5,
+      "description": "6.7-inch Fluid AMOLED display, Snapdragon 8 Gen 2, 50MP triple camera setup, and 100W fast charging.",
+      "specification": {
+        "display": "6.7-inch Fluid AMOLED",
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "8GB/16GB",
+        "camera": "50MP triple camera",
+        "battery": "5000mAh",
+        "storage": "128GB/256GB",
+        "os": "Android 13"
+      }
     },
     {
-      "id": "00004",
-      "name": "Google Pixel 8 5G",
-      "description": "Powered by Google Tensor G3, with AI-powered photography and clean Android experience.",
-      "price": 56399,
-      "image": "https://m.media-amazon.com/images/I/51x3Qb8-Y+L._AC_UY327_FMwebp_QL65_.jpg"
+      "id": "4",
+      "name": "Google Pixel 7 Pro",
+      "brand": "Google",
+      "price": 84999,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/t/u/m/-original-imaggsuehy3nyj3b.jpeg?q=70&crop=false",
+      "rating": 4.6,
+      "description": "6.7-inch LTPO OLED display, Google Tensor G2 chip, 50MP camera, and advanced AI photography.",
+      "specification": {
+        "display": "6.7-inch LTPO OLED",
+        "processor": "Google Tensor G2",
+        "ram": "12GB",
+        "camera": "50MP triple camera",
+        "battery": "5000mAh",
+        "storage": "128GB/256GB",
+        "os": "Android 13"
+      }
     },
     {
-      "id": "00005",
-      "name": "Xiaomi 14",
-      "description": "Flagship device with Leica optics, Snapdragon 8 Gen 2, and ceramic body design.",
-      "price": 49998,
-      "image": "https://m.media-amazon.com/images/I/71MsYJjQhBL._AC_UY327_FMwebp_QL65_.jpg"
+      "id": "5",
+      "name": "Xiaomi 13 Pro",
+      "brand": "Xiaomi",
+      "price": 74999,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/x/j/m/-original-imagwubk2ky9v2gz.jpeg?q=70&crop=false",
+      "rating": 4.4,
+      "description": "6.73-inch AMOLED display, Snapdragon 8 Gen 2, 50MP Leica-powered cameras, and 120W fast charging.",
+      "specification": {
+        "display": "6.73-inch AMOLED",
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "12GB",
+        "camera": "50MP Leica triple camera",
+        "battery": "4820mAh",
+        "storage": "256GB/512GB",
+        "os": "Android 13"
+      }
     },
     {
-      "id": "00006",
-      "name": "Realme GT 7 pro",
-      "description": "High-performance gaming phone with 240W fast charging and AMOLED display.",
-      "price": 59998,
-      "image": "https://m.media-amazon.com/images/I/612IqV1YEjL._AC_UY327_FMwebp_QL65_.jpg"
+      "id": "6",
+      "name": "Realme GT 3",
+      "brand": "Realme",
+      "price": "43999",
+      "image": "https://www.classic-phones.com/cdn/shop/files/F3C66CAB-9203-4717-BD6F-BBAC0B5662BA.jpg?v=1702763986&width=713",
+      "rating": 4.3,
+      "description": "6.74-inch AMOLED display, Snapdragon 8+ Gen 1, 50MP camera setup, and 240W fast charging.",
+      "display": "6.74-inch AMOLED",
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": "8GB/12GB",
+      "camera": "50MP triple camera",
+      "battery": "4600mAh",
+      "storage": "256GB",
+      "os": "Android 13"
     },
     {
-      "id": "00007",
-      "name": "Samsung Galaxy S24 FE",
-      "description": "Premium device with 4K OLED display, Exynos 3110, and professional-grade cameras.",
-      "price": 54688,
-      "image": "https://m.media-amazon.com/images/I/717gvwQRw7L._AC_UY327_FMwebp_QL65_.jpg  "
+      "id": "7",
+      "name": "Asus ROG Phone 7",
+      "brand": "Asus",
+      "price": 94999,
+      "image": "https://dlcdnwebimgs.asus.com/gain/C9615203-EAB2-40D4-AB1F-2BA1521B4A98",
+      "rating": 4.6,
+      "description": "6.78-inch AMOLED display, Snapdragon 8 Gen 2, 165Hz refresh rate, and AirTrigger gaming controls.",
+      "specification": {
+        "display": "6.78-inch AMOLED, 165Hz",
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "16GB",
+        "camera": "50MP triple camera",
+        "battery": "6000mAh",
+        "storage": "512GB",
+        "os": "Android 13"
+      }
     },
     {
-      "id": "00008",
-      "name": "Motorola razr 50",
-      "description": "3.6 External AMOLED Display, 6.9 AMOLED 120Hz Display, 32MP Selfie Camera.",
-      "price": 54999,
-      "image": "https://m.media-amazon.com/images/I/71AGGURIh8L._AC_UY327_FMwebp_QL65_.jpg"
+      "id": "8",
+      "name": "Sony Xperia 1 V",
+      "brand": "Sony",
+      "price": 119990,
+      "image": "https://images-cdn.ubuy.co.in/645e754576939d03d263efd8-sony-xperia-1-v-256gb-5g-factory.jpg",
+      "rating": 4.4,
+      "description": "6.5-inch 4K OLED display, Snapdragon 8 Gen 2, 12MP triple camera system, and professional video capabilities.",
+      "specification": {
+        "display": "6.5-inch 4K OLED",
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "12GB",
+        "camera": "12MP triple camera",
+        "battery": "5000mAh",
+        "storage": "256GB/512GB",
+        "os": "Android 13"
+      }
     },
     {
-      "id": "00009",
-      "name": "Motorola Edge 50 Pro",
-      "description": "Slim and powerful device with Snapdragon 8 Gen 2, edge-to-edge pOLED display, and IP68 rating.",
-      "price": 32799,
-      "image": "https://m.media-amazon.com/images/I/715aoVxQNTL._AC_UY327_FMwebp_QL65_.jpg"
+      "id": "9",
+      "name": "Nothing Phone (2)",
+      "brand": "Nothing",
+      "price": "44999",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/u/m/b/-original-imagrdefbw6bhbjr.jpeg?q=70",
+      "rating": 4.2,
+      "description": "6.7-inch OLED display, Snapdragon 8+ Gen 1, unique Glyph Interface, and 50MP dual cameras.",
+      "specification": {
+        "display": "6.7-inch OLED",
+        "processor": "Snapdragon 8+ Gen 1",
+        "ram": "8GB",
+        "camera": "50MP (Dual Camera)",
+        "battery": "4700mAh with 45W fast charging",
+        "storage": "128GB UFS 3.1",
+        "os": "Android 13"
+      }
     },
     {
-      "id": "00010",
-      "name": "Vivo X90 Pro",
-      "description": "Photography-focused device with Zeiss lenses, MediaTek Dimensity 9200, and 1-inch camera sensor.",
-      "price": 53749,
-      "image": "https://m.media-amazon.com/images/I/71Mc1FdLrWL._AC_UY327_FMwebp_QL65_.jpg"
-    },
-    {
-      "id": "00011",
-      "name": "Nothing Phone 2",
-      "description": "Minimalistic design with Snapdragon 8+ Gen 1, Glyph Interface, and OLED display.",
-      "price": 45650,
-      "image": "https://m.media-amazon.com/images/I/819VAShnDpL._AC_UY327_FMwebp_QL65_.jpg"
-    },
-    {
-      "id": "00012",
-      "name": "iPhone 16 128 GB",
-      "description": "5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life.",
-      "price": 77400,
-      "image": "https://m.media-amazon.com/images/I/61lLjrvDEkL._AC_UY327_FMwebp_QL65_.jpg"
+      "id": "P1735106030391",
+      "name": "Motorola Edge 40 Pro",
+      "brand": "Motorola",
+      "price": "79999",
+      "image": "https://motorolaroe.vtexassets.com/arquivos/ids/157285/motorola-edge-40-pro-family-shelf-quartz-black-b5pgv2pv.png?v=638162154256500000",
+      "rating": "4.3",
+      "description": "6.7-inch OLED display, Snapdragon 8 Gen 2, 125W fast charging, and 50MP triple camera setup.",
+      "specification": {
+        "display": "6.7-inch OLED",
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "12GB",
+        "camera": "50MP (Triple Camera)",
+        "battery": "4600mAh with 125W fast charging",
+        "storage": "256GB UFS 4.0",
+        "os": "Android 13"
+      }
     }
   ],
   "orders": [
     {
-      "id": 876867565675,
-      "userId": "99e0",
+      "id": "1735056796339",
+      "userId": "1255",
+      "username": "jagan",
+      "date": "Tue Dec 24 2024 21:43:16 GMT+0530 (India Standard Time)",
+      "paymentMethod": "cod",
+      "paymentDetails": {
+        "cardName": "",
+        "cardNumber": "",
+        "expiryDate": "",
+        "cvv": "",
+        "upiId": ""
+      },
+      "total": 634797,
+      "address": {
+        "name": "Sreejagan T",
+        "email": "sreejaganjaggu@gmail.com",
+        "phone": "999999",
+        "address": "chittilamcherry",
+        "city": "alathur",
+        "state": "palakkad",
+        "postalCode": "678704"
+      },
+      "orderStatus": "Not Delivered",
+      "paymentStatus": "paid",
       "products": [
         {
-          "id": "00001",
-          "name": "Apple iPhone 15 Pro max",
-          "description": "The latest iPhone with A17 Bionic chip, 6.1-inch Super Retina XDR display, and dynamic island.",
-          "price": 119900,
-          "image": "https://m.media-amazon.com/images/I/81c50PU+lpL._AC_UY327_FMwebp_QL65_.jpg",
+          "id": "1",
+          "name": "iPhone 14 Pro Max",
+          "brand": "Apple",
+          "price": 129900,
+          "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/x/j/-original-imaghxejqvpwfqh2.jpeg?q=70&crop=false",
+          "rating": 4.8,
+          "description": "6.7-inch Super Retina XDR display, A16 Bionic chip, 48MP camera system, and all-day battery life.",
+          "specification": {
+            "display": "6.7-inch Super Retina XDR",
+            "processor": "A16 Bionic chip",
+            "ram": "6GB",
+            "camera": "48MP triple camera",
+            "battery": "4323mAh",
+            "storage": "128GB/256GB/512GB/1TB",
+            "os": "iOS 16"
+          },
+          "quantity": 2
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23 Ultra",
+          "brand": "Samsung",
+          "price": 124999,
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/u/a/l/-original-imagzm8qrfdmhy8z.jpeg?q=70&crop=false",
+          "rating": 4.7,
+          "description": "6.8-inch Dynamic AMOLED 2X display, Snapdragon 8 Gen 2, 200MP camera, and S Pen compatibility.",
+          "specification": {
+            "display": "6.8-inch Dynamic AMOLED 2X",
+            "processor": "Snapdragon 8 Gen 2",
+            "ram": "12GB",
+            "camera": "200MP quad camera",
+            "battery": "5000mAh",
+            "storage": "256GB/512GB/1TB",
+            "os": "Android 13"
+          },
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "1735056907050",
+      "userId": "f7e7",
+      "username": "harsh",
+      "date": "Tue Dec 24 2024 21:45:07 GMT+0530 (India Standard Time)",
+      "paymentMethod": "cod",
+      "paymentDetails": {
+        "cardName": "",
+        "cardNumber": "",
+        "expiryDate": "",
+        "cvv": "",
+        "upiId": ""
+      },
+      "total": 184997,
+      "address": {
+        "name": "Sreejagan T",
+        "email": "sreejaganjaggu@gmail.com",
+        "phone": "999999",
+        "address": "xerdctgybiu ",
+        "city": "alathur",
+        "state": "palakkad",
+        "postalCode": "sdafasfasf"
+      },
+      "orderStatus": "Not Delivered",
+      "paymentStatus": "paid",
+      "products": [
+        {
+          "id": "7",
+          "name": "Asus ROG Phone 7",
+          "brand": "Asus",
+          "price": 94999,
+          "image": "https://dlcdnwebimgs.asus.com/gain/C9615203-EAB2-40D4-AB1F-2BA1521B4A98",
+          "rating": 4.6,
+          "description": "6.78-inch AMOLED display, Snapdragon 8 Gen 2, 165Hz refresh rate, and AirTrigger gaming controls.",
+          "specification": {
+            "display": "6.78-inch AMOLED, 165Hz",
+            "processor": "Snapdragon 8 Gen 2",
+            "ram": "16GB",
+            "camera": "50MP triple camera",
+            "battery": "6000mAh",
+            "storage": "512GB",
+            "os": "Android 13"
+          },
           "quantity": 1
         },
         {
-          "id": "00002",
-          "name": "Samsung Galaxy S23 Ultra",
-          "description": "Flagship device with Snapdragon 8 Gen 2, 200 MP camera, and 5000mAh battery.",
-          "price": 76999,
-          "image": "https://m.media-amazon.com/images/I/71goZuIha-L._AC_UY327_FMwebp_QL65_.jpg",
+          "id": "9",
+          "name": "Nothing Phone (2)",
+          "brand": "Nothing",
+          "price": 44999,
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/u/m/b/-original-imagrdefbw6bhbjr.jpeg?q=70",
+          "rating": 4.2,
+          "description": "6.7-inch OLED display, Snapdragon 8+ Gen 1, unique Glyph Interface, and 50MP dual cameras.",
+          "specification": {
+            "display": "6.7-inch OLED",
+            "processor": "Snapdragon 8+ Gen 1",
+            "ram": "8GB",
+            "camera": "50MP (Dual Camera)",
+            "battery": "4700mAh with 45W fast charging",
+            "storage": "128GB UFS 3.1",
+            "os": "Android 13"
+          },
           "quantity": 2
         }
-      ],
-      "totalAmount": 119900,
-      "date": "24-04-2024",
-      "paymentMethode": "COD",
-      "deliveryAddress": {
-        "name": "Abhay pc",
-        "address": "Ramanattukara",
-        "mobile": 987987995556
-      }
+      ]
+    },
+    {
+      "id": "1735133193666",
+      "userId": "fd37",
+      "username": "mini",
+      "date": "Wed Dec 25 2024 18:56:33 GMT+0530 (India Standard Time)",
+      "paymentMethod": "cod",
+      "paymentDetails": {
+        "cardName": "",
+        "cardNumber": "",
+        "expiryDate": "",
+        "cvv": "",
+        "upiId": ""
+      },
+      "total": 214899,
+      "address": {
+        "name": "mini",
+        "email": "mini@gmail.com",
+        "phone": "979657654",
+        "address": "happy happy happy",
+        "city": "mini",
+        "state": "mini",
+        "postalCode": "98794654"
+      },
+      "orderStatus": "Not Delivered",
+      "paymentStatus": "paid",
+      "products": [
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro Max",
+          "brand": "Apple",
+          "price": 129900,
+          "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/x/j/-original-imaghxejqvpwfqh2.jpeg?q=70&crop=false",
+          "rating": 4.8,
+          "description": "6.7-inch Super Retina XDR display, A16 Bionic chip, 48MP camera system, and all-day battery life.",
+          "specification": {
+            "display": "6.7-inch Super Retina XDR",
+            "processor": "A16 Bionic chip",
+            "ram": "6GB",
+            "camera": "48MP triple camera",
+            "battery": "4323mAh",
+            "storage": "128GB/256GB/512GB/1TB",
+            "os": "iOS 16"
+          },
+          "quantity": 1
+        },
+        {
+          "id": "4",
+          "name": "Google Pixel 7 Pro",
+          "brand": "Google",
+          "price": 84999,
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/t/u/m/-original-imaggsuehy3nyj3b.jpeg?q=70&crop=false",
+          "rating": 4.6,
+          "description": "6.7-inch LTPO OLED display, Google Tensor G2 chip, 50MP camera, and advanced AI photography.",
+          "specification": {
+            "display": "6.7-inch LTPO OLED",
+            "processor": "Google Tensor G2",
+            "ram": "12GB",
+            "camera": "50MP triple camera",
+            "battery": "5000mAh",
+            "storage": "128GB/256GB",
+            "os": "Android 13"
+          },
+          "quantity": 1
+        }
+      ]
     }
   ]
 }
